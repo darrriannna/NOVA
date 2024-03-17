@@ -1,0 +1,19 @@
+body {
+    background: white;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+  }
+
+.navbar{
+    margin-bottom: 30px;
+}
+.navbar-brand{
+    font-weight: 700;
+    color: rgb(49, 49, 216);
+    font-size: 30px;
+}
+
+.logo_pic{
+    font-size: 65px;
+    text-shadow: 2px 3px gray;
+}
